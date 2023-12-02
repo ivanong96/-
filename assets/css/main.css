@@ -2210,7 +2210,7 @@ input[type="radio"]+label:before {
 }
 
 .image.work img {
-  padding: 2em 0 0 0
+  padding: 2em 0 0 0;
 }
 
 .image.main {
